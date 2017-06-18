@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{12C72CCF-DABE-DD2A-B1DE-AF3D8C00D2FA}") = "ArchMageCardFor2D", "Assembly-CSharp.csproj", "{7D9E7651-5FAB-4023-2822-6CA88A1C6F57}"
+EndProject
+Project("{12C72CCF-DABE-DD2A-B1DE-AF3D8C00D2FA}") = "ArchMageCardFor2D", "Assembly-CSharp-Editor.csproj", "{BA49F974-DF86-B3F1-FCA9-10C6D838F93E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D9E7651-5FAB-4023-2822-6CA88A1C6F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D9E7651-5FAB-4023-2822-6CA88A1C6F57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D9E7651-5FAB-4023-2822-6CA88A1C6F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D9E7651-5FAB-4023-2822-6CA88A1C6F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA49F974-DF86-B3F1-FCA9-10C6D838F93E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA49F974-DF86-B3F1-FCA9-10C6D838F93E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA49F974-DF86-B3F1-FCA9-10C6D838F93E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA49F974-DF86-B3F1-FCA9-10C6D838F93E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
