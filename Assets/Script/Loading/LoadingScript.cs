@@ -16,9 +16,11 @@ public class LoadingScript : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-		if (loadingbar.GetComponent<Image>().fillAmount < 1.0f) {
-			loadingbar.GetComponent<Image>().fillAmount += 0.005f;
-			Debug.Log(loadingbar.GetComponent<Image>().fillAmount);
+		if (loadingbar.GetComponent<Image> ().fillAmount < 1.0f) {
+			loadingbar.GetComponent<Image> ().fillAmount += 0.005f;
+			Debug.Log (loadingbar.GetComponent<Image> ().fillAmount);
+
+		} else {
 			Application.LoadLevel ("MainScene");
 		}
 
