@@ -1,0 +1,118 @@
+
+magicbook.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+book0
+  rotate: false
+  xy: 411, 665
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+book0light
+  rotate: false
+  xy: 192, 162
+  size: 178, 179
+  orig: 178, 179
+  offset: 0, 0
+  index: -1
+book1
+  rotate: false
+  xy: 2, 2
+  size: 170, 157
+  orig: 170, 157
+  offset: 0, 0
+  index: -1
+book1light
+  rotate: false
+  xy: 351, 559
+  size: 99, 89
+  orig: 99, 89
+  offset: 0, 0
+  index: -1
+book1light2
+  rotate: false
+  xy: 239, 809
+  size: 225, 212
+  orig: 225, 212
+  offset: 0, 0
+  index: -1
+book2
+  rotate: false
+  xy: 239, 650
+  size: 170, 157
+  orig: 170, 157
+  offset: 0, 0
+  index: -1
+book2light
+  rotate: false
+  xy: 555, 669
+  size: 116, 138
+  orig: 116, 138
+  offset: 0, 0
+  index: -1
+book2light2
+  rotate: false
+  xy: 2, 343
+  size: 225, 212
+  orig: 225, 212
+  offset: 0, 0
+  index: -1
+book3
+  rotate: true
+  xy: 693, 664
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+book3light2
+  rotate: false
+  xy: 466, 809
+  size: 225, 212
+  orig: 225, 212
+  offset: 0, 0
+  index: -1
+book4
+  rotate: false
+  xy: 693, 838
+  size: 181, 183
+  orig: 181, 183
+  offset: 0, 0
+  index: -1
+book4light
+  rotate: false
+  xy: 2, 783
+  size: 235, 238
+  orig: 235, 238
+  offset: 0, 0
+  index: -1
+book5
+  rotate: false
+  xy: 2, 161
+  size: 188, 180
+  orig: 188, 180
+  offset: 0, 0
+  index: -1
+book5ghost
+  rotate: false
+  xy: 876, 846
+  size: 142, 175
+  orig: 142, 175
+  offset: 0, 0
+  index: -1
+book5light
+  rotate: false
+  xy: 2, 557
+  size: 232, 224
+  orig: 232, 224
+  offset: 0, 0
+  index: -1
+booklight
+  rotate: false
+  xy: 236, 561
+  size: 113, 87
+  orig: 113, 87
+  offset: 0, 0
+  index: -1
